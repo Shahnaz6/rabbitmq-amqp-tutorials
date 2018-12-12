@@ -14,4 +14,6 @@ final class OneReceiver {
     public void receive(final String in) {
         System.out.println(" [x] Received '" + in + "'");
     }
+
+
 }
